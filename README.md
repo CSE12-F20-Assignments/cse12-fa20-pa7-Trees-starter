@@ -192,9 +192,7 @@ Please submit your answers to the questions from part 3 on the Gradescope assign
 
 ## Scoring (50 points total)
 - 18 points: implementation of `DefaultMap` [automatically graded]
-- 19 points: Frequency Filter
-  - 10 points for `buildFrquencyTress()` [automatically graded]
-  - 9 points for `filter()` methods [automatically graded]
+- 19 points: `filter()` methods [automatically graded]
 - 1 point: BSTTest graded on completition [manually graded]
 - 8 points: Gradescope Questions [manually graded]
 - 4 points: Style [manually graded]
