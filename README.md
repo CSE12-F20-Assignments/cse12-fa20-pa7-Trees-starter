@@ -106,9 +106,9 @@ The output will be as follows:
 
 [  
 \ntree -> {\n  
-\t"Awesome": 12\n,   
+\t"Awesome": 12\n
 
-\t"happy": 11\n,   
+\t"happy": 11\n  
 
 \t"AM": 10\n   
 }  
