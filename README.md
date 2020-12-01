@@ -146,7 +146,7 @@ You can freely modify this file as you see fit for testing purposes. The followi
 Respond to the following prompts in *Programming Assignment 7 - questions*:
 
 1. Find a different example for the text file (you may use one from PA6 or find your own). What are some observations about the frequencies from this file that you found interesting? 
-2. Describe what the base case would be for a BST, specifically, what does the tree look like? How is this the best case? What methods benefit from the best case scenario? 
+2. Describe what the best case would be for a BST, specifically, what does the tree look like? How is this the best case? What methods benefit from the best case scenario? 
 3. Speculate – would doing a frequency count with the `MyHashMap` in PA6 be faster or slower than with the `BSTMap`. Why?
 4. Justify the runtime bounds (worst case) for the methods you wrote in `BST`.
 
